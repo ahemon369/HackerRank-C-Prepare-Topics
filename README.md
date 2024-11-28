@@ -1,1 +1,7 @@
-# HackerRank-C-Prepare-Topics
+
+                /*-----------------------------------------------
+                            THIS CODE WAS WRITTEN 
+                                   BY
+                            MD AMRAN HOSSIN EMON
+                
+                -------------------------------------------------*/
